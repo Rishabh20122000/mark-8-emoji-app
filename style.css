@@ -1,0 +1,29 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+  body {
+    margin: 1.2rem;
+    background-image: linear-gradient(to right, rgb(248, 185, 67), #f7d8a0);
+  }
+  input {
+    box-sizing: border-box;
+    padding: 1rem;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 1rem;
+    border: 2px solid black;
+  }
+  
+  .fooddiv {
+    width: 80%;
+    margin: auto;
+  }
+  .foodlist {
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
